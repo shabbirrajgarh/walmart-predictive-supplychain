@@ -16,6 +16,10 @@ Experience the interactive web application live in your browser:
 
 ## 📸 Dashboard Preview
 
+![Dashboard Top View](assets/dashboard_top.png)
+
+![Dashboard Bottom View](assets/dashboard_bottom.png)
+
 
 
 ## 🛠️ Key Features
