@@ -16,16 +16,7 @@ Experience the interactive web application live in your browser:
 
 ## 📸 Dashboard Preview
 
-### 1. Overview & Real-Time Predictions
-The main interface allows stakeholders to input store parameters, adjust macroeconomic factors (Temperature, Fuel Price, CPI, Unemployment), and instantly generate revenue predictions alongside strategic operational recommendations.
 
-![Dashboard Top View](https://raw.githubusercontent.com/shabbirrajgarh/walmart-predictive-supplychain/main/assets/dashboard_top.png)
-
-### 2. Feature Importance & Explainability
-Detailed breakdown of key feature influencers (such as Store ID, CPI, and Fuel Price) driving model predictions, ensuring transparent and data-backed supply chain decisions.
-
-![Dashboard Bottom View](https://raw.githubusercontent.com/shabbirrajgarh/walmart-predictive-supplychain/main/assets/dashboard_bottom.png)
----
 
 ## 🛠️ Key Features
 * **Predictive Analytics:** Powered by a tuned Random Forest model delivering robust forecasting performance ($R^2 = 0.9589$).
