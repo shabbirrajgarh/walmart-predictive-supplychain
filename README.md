@@ -19,16 +19,12 @@ Experience the interactive web application live in your browser:
 ### 1. Overview & Real-Time Predictions
 The main interface allows stakeholders to input store parameters, adjust macroeconomic factors (Temperature, Fuel Price, CPI, Unemployment), and instantly generate revenue predictions alongside strategic operational recommendations.
 
-<p align="center">
-  <img src="assets/dashboard_top.png" alt="Dashboard Top View" width="100%">
-</p>
+![Dashboard Top View](assets/dashboard_top.png)
 
 ### 2. Feature Importance & Explainability
 Detailed breakdown of key feature influencers (such as Store ID, CPI, and Fuel Price) driving model predictions, ensuring transparent and data-backed supply chain decisions.
 
-<p align="center">
-  <img src="assets/dashboard_bottom.png" alt="Dashboard Bottom View" width="100%">
-</p>
+![Dashboard Bottom View](assets/dashboard_bottom.png)
 
 ---
 
