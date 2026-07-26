@@ -25,7 +25,6 @@ The main interface allows stakeholders to input store parameters, adjust macroec
 Detailed breakdown of key feature influencers (such as Store ID, CPI, and Fuel Price) driving model predictions, ensuring transparent and data-backed supply chain decisions.
 
 ![Dashboard Bottom View](https://raw.githubusercontent.com/shabbirrajgarh/walmart-predictive-supplychain/main/assets/dashboard_bottom.png)
-
 ---
 
 ## 🛠️ Key Features
